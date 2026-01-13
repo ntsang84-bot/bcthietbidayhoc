@@ -1,0 +1,6 @@
+
+{
+  "name": "Sổ báo cáo thiết bị dạy học theo tháng",
+  "description": "Ứng dụng chuyên nghiệp để tổng hợp sổ báo giảng hàng tháng từ file Excel nhiều sheet, hỗ trợ chuẩn hóa dữ liệu và xuất báo cáo PDF/Excel.",
+  "requestFramePermissions": []
+}
