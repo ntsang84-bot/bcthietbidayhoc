@@ -301,7 +301,7 @@ const App: React.FC = () => {
       </div>
       <footer className="text-center py-10 text-slate-400 text-[10px] font-bold uppercase tracking-[0.2em] border-t border-slate-100 mt-10 space-y-2">
         <div>Tác giả: Thầy Sang - THPT Mang Thít • Sổ báo cáo thiết bị dạy học theo tháng {new Date().getFullYear()}</div>
-        <div className="text-[8px] opacity-60">Sản phẩm dành cho giáo dục Việt Nam</div>
+        <div className="text-[8px] opacity-60">Sản phẩm cá nhân</div>
       </footer>
     </div>
   );
